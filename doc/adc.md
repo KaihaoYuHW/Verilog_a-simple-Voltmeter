@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\dig_volt\doc\adc_module.png)
+![adc_module](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/adc_module.png)
 
 ## signals
 
@@ -31,6 +31,6 @@
 - define a clk cycle of clk_sample = 80ns
 - define ad_data = 125
 
-![](E:\IC_design\Verilog\FPGA_S6\dig_volt\doc\adc_waveform1.png)
+![adc_waveform1](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/adc_waveform1.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\dig_volt\doc\adc_waveform2.png)
+![adc_waveform2](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/adc_waveform2.png)
