@@ -25,3 +25,9 @@ convert a digital value ad_data(0 ~ 255) to a digital voltage value volt(-5v ~ 5
 
 - When ad_data in the range of 0 ~ data_median, it means volt is from -5v to 0v. The resolution = `10/((data_median+1)*2)`. The volt = `-((10/((data_median+1)*2))*(data_median-ad_data))`
 - When ad_data in the range of data_median ~ 255, it means volt is from 0v to 5v. The resolution = `10/((255-data_median+1)*2)`. The volt = `((10/((255-data_median+1)*2))*(ad_data-data_median))`
+
+## implementation
+
+I measured a button cell battery and it showed +3.320v. 
+
+![test](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/test.jpg)
