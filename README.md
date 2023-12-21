@@ -1,5 +1,12 @@
 # a simple Voltmeter designed with AD/DA converter and FPGA
+## project structure
+- "doc": the information for each module (see .md)
 
+- "rtl": the implementation of all modules (see .v)
+
+- "sim": all testbenches of each module
+
+***
 ## Principle
 
 ![a_simple_voltmeter_module](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/a_simple_voltmeter_module.png)
