@@ -2,4 +2,4 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\dig_volt\doc\top_module.png)
+![top_module](https://github.com/KaihaoYuHW/Verilog_a-simple-Voltmeter/blob/main/doc/top_module.png)
